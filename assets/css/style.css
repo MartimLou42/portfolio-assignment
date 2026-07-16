@@ -157,6 +157,7 @@ section {
 
 .about-lede {
     margin-top: 0;
+    margin-bottom: 12px;
     line-height: 1;
 }
 
@@ -288,7 +289,8 @@ footer a {
     }
 
     .about-lede {
-        font-size: 2.2em;
+        font-size: 1.1em;
+        line-height: 1.4;
     }
 
     .about-images {
