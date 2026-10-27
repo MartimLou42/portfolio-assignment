@@ -2,7 +2,7 @@
 
 Portfolio page built step by step using HTML, CSS, Git.
 
-Live site: https://martimlou95.github.io/portfolio-assignment/
+Live site: https://martimlou42.github.io/portfolio-assignment/
 
 ## Project Notes
 
